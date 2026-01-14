@@ -15,7 +15,7 @@ Config.RentalLocation = {
         Label = "Araç Kiralama"
     },
     SpawnCoords = vector4(-1030.0, -2730.0, 20.17, 240.0),
-    SpawnCheckRadius = 3.0 -
+    SpawnCheckRadius = 3.0
 }
 
 Config.RentalVehicles = {
@@ -50,4 +50,5 @@ Config.Target = {
     Enabled = true,
     System = 'qb-target'
 }
+
 
